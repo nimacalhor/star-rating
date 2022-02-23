@@ -1,0 +1,7 @@
+.bi-star,
+.bi-star-fill,
+.bi-star-half {
+  font-size: 2rem;
+  color: #ffff00;
+  transition: color ease-out 0.2s;
+}
